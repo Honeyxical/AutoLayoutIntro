@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4C665A36-7103-4C05-98D2-65653F658976"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2588F9EC-359B-40F6-A33A-7BFA5C70A5A5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AutoLayoutIntro/SwipingController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "nextButton"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "91291B77-FA9A-4A30-9712-5EBA17EED0D0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AutoLayoutIntro/SwipingController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "handlerNext()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "91291B77-FA9A-4A30-9712-5EBA17EED0D0 - 3eb5c692057907f8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AutoLayoutIntro.SwipingController.handlerNext() -&gt; ()"
+                  moduleName = "AutoLayoutIntro"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ilyabenikov/Library/Mobile%20Documents/com~apple~CloudDocs/Documents/Swift%20Projects/AutoLayoutIntro/AutoLayoutIntro/SwipingController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "103">
+               </Location>
+               <Location
+                  uuid = "91291B77-FA9A-4A30-9712-5EBA17EED0D0 - 3eb5c692057907db"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AutoLayoutIntro.SwipingController.handlerNext() -&gt; ()"
+                  moduleName = "AutoLayoutIntro"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ilyabenikov/Library/Mobile%20Documents/com~apple~CloudDocs/Documents/Swift%20Projects/AutoLayoutIntro/AutoLayoutIntro/SwipingController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "230">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
